@@ -1,0 +1,20 @@
+body {
+  background-image: url("img/sunrise.jpg");
+  /* background-color: aqua; */
+  color: aliceblue;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 80px;
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+nav {
+  font-size: x-large;
+}
+
+footer {
+  text-align: left;
+}
